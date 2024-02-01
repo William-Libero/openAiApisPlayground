@@ -13,6 +13,7 @@
     "@mdi/font": "7.0.96",
     "axios": "^1.6.7",
     "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.1",
     "langchain": "^0.1.7",
     "openai": "^4.26.0",
     "pinia": "^2.1.7",
